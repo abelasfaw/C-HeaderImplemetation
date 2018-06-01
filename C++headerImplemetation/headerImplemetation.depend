@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1527531886 source:c:\users\abel\desktop\store\exercise\c\headerimplemetation\main.cpp
+	<iostream>
+	"header.h"
+
+1527532089 c:\users\abel\desktop\store\exercise\c\headerimplemetation\header.h
+	<ctime>
+	<cstdlib>
+
